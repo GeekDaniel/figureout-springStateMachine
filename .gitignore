@@ -1,0 +1,67 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+order-interfaces/src/main/java/com/shizhuang/duapp/order/interfaces/mockCase/
+.idea/
+target/
+order-api/order-api.iml
+order-api/target/generated-sources/
+order-application/order-application.iml
+order-appointment/order-appointment.iml
+order-application/target/generated-sources/
+order-domain-order/order-domain-order.iml
+order-domain-order/target/generated-sources/
+order-domain-refund/order-domain-refund.iml
+order-domain-refund/target/generated-sources/
+order-infrastructure/order-infrastructure.iml
+order-infrastructure/target/classes/META-INF/
+order-infrastructure/target/classes/config/
+order-infrastructure/target/classes/ddl.sql
+order-infrastructure/target/classes/def-plugin.xml
+order-infrastructure/target/classes/generatorConfig.xml
+order-infrastructure/target/classes/mapper/
+order-infrastructure/target/generated-test-sources/
+order-infrastructure/target/maven-archiver/
+order-infrastructure/target/maven-status/
+order-infrastructure/target/test-classes/
+order-interfaces/order-interfaces.iml
+order-interfaces/target/classes/META-INF/
+order-interfaces/target/classes/application-local.yml
+order-interfaces/target/classes/application.properties
+order-interfaces/target/generated-sources/
+order-interfaces/target/generated-test-sources/
+order-interfaces/target/test-classes/config-cache/
+trade-order-center.iml
+order-domain-order/target/classes/META-INF/
+order-infrastructure/target/generated-sources/
+order-model/order-model.iml
+order-api/target/classes/META-INF/
+order-application/target/classes/META-INF/
+order-domain-refund/target/classes/META-INF/
+order-interfaces/target/test-classes/META-INF/
+order-model/target/generated-sources/
+target
